@@ -2,7 +2,7 @@ layout:true
 
 <div class="header">
   
-  <p class="header-text">What is Open Data?</p>
+  <p class="header-text">The Benefits of Open Data</p>
 </div>
 <div class="footer">
   <p class="footer-text">
