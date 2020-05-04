@@ -124,5 +124,5 @@ name:open-data
 class:middle,center
 # Thank You!
 
-## And go find some open data about your community!
+## And go find some open data <br>about your community!
 
